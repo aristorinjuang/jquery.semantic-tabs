@@ -1,0 +1,21 @@
+{
+  "name": "jquery.semantic-tabs",
+  "version": "1.0.0",
+  "description": "jQuery SemanticTabs is a jQuery plugin that can convert semantic HTML tags to tabs.",
+  "main": "jquery.semantic-tabs.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristorinjuang/jquery.semantic-tabs.git"
+  },
+  "keywords": [
+    "jquery",
+    "semantic",
+    "tabs"
+  ],
+  "author": "Aristo Rinjuang <contact@aristorinjuang.com> (https://aristorinjuang.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aristorinjuang/jquery.semantic-tabs/issues"
+  },
+  "homepage": "https://github.com/aristorinjuang/jquery.semantic-tabs#readme"
+}

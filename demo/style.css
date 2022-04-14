@@ -1,0 +1,28 @@
+#semantic-tabs {
+    border: 2px solid #555;
+    border-radius: 4px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#semantic-tabs-heads {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#semantic-tabs-heads {
+    background: #555;
+
+}
+
+#semantic-tabs-heads li {
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 15px;
+}
+
+#semantic-tabs-heads li.active {
+    color: #000;
+    background: #fff;
+}
